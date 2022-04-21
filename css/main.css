@@ -114,11 +114,11 @@ section img {
   font-size: 1.2em;
 }
 
-#weazelLink, #donCountryLink {
+#weazelLink, #donCountryLink, #afficheJCPLink, #fourLink {
   cursor: pointer;
 }
 
-#weazelLink:hover, #donCountryLink:hover {
+#weazelLink:hover, #donCountryLink:hover, #afficheJCPLink:hover, #fourLink:hover {
   opacity: 0.7;
 }
 
@@ -145,7 +145,7 @@ section img {
   cursor: pointer;
 }
 
-#weazelFull, #donCountryFull {
+#weazelFull, #donCountryFull, #afficheJCPFull, #fourFull {
   display: none;
   position: fixed;
   width: initial;
