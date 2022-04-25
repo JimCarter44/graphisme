@@ -145,7 +145,7 @@ section img {
   cursor: pointer;
 }
 
-#weazelFull, #donCountryFull, #afficheJCPFull, #fourFull {
+#weazelFull, #donCountryFull, #afficheJCPFull, #fourFull, #pub4CotesFull, #digitalDenFull, #luckyPluckerFull,#jcStreetFull, #jcStreet2Full, #dppLogFull, #logoLabFull, #logoGGFull, #mpFull, #logoBabyOnBoardFull, #jcProductionFull {
   display: none;
   position: fixed;
   width: initial;

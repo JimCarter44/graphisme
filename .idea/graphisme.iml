@@ -11,5 +11,7 @@
     <orderEntry type="library" name="gsap" level="application" />
     <orderEntry type="library" name="three.js" level="application" />
     <orderEntry type="library" name="pixi.js" level="application" />
+    <orderEntry type="library" name="jquery-3.6.0" level="application" />
+    <orderEntry type="library" name="font-awesome" level="application" />
   </component>
 </module>
